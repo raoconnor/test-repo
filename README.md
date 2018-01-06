@@ -1,2 +1,2 @@
 # This is my read-me file
-My test repo-
+My test repository
